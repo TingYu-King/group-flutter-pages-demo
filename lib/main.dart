@@ -28,13 +28,13 @@ class TeamHomePage extends StatelessWidget {
 static const String projectSlogan = '用 Flutter Web 展示我们的创意与协作';
 
   static const List<TeamMember> members = [
-    TeamMember(role: '组长', name: '李组长', task: '创建仓库、维护 main 分支、审核 PR、发布 GitHub Pages'),
-    TeamMember(role: '组员 A', name: '成员 A', task: '修改首页标题和项目口号'),
-    TeamMember(role: '组员 B', name: '成员 B', task: '补充成员介绍卡片'),
-    TeamMember(role: '组员 C', name: '成员 C', task: '补充项目功能列表'),
-    TeamMember(role: '组员 D', name: '成员 D', task: '补充发布说明和访问地址'),
-    TeamMember(role: '组员 E', name: '成员 E', task: 'UI 优化'),
-    TeamMember(role: '组员 F', name: '成员 F', task: '仓库 README 文档编写与维护'),
+    TeamMember(role: '组长', name: '胡玮明', task: '创建仓库、维护 main 分支、审核 PR、发布 GitHub Pages'),
+    TeamMember(role: '组员 A', name: '张景涛', task: '修改首页标题和项目口号'),
+    TeamMember(role: '组员 B', name: '李天宇', task: '补充成员介绍卡片'),
+    TeamMember(role: '组员 C', name: '宋阳', task: '补充项目功能列表'),
+    TeamMember(role: '组员 D', name: '张春瑾', task: '补充发布说明和访问地址'),
+    TeamMember(role: '组员 E', name: '徐冲', task: 'UI 优化'),
+    TeamMember(role: '组员 F', name: '杨航', task: '仓库 README 文档编写与维护'),
   ];
 
   static const List<String> features = [
