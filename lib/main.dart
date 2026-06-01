@@ -28,7 +28,7 @@ class TeamHomePage extends StatelessWidget {
 static const String projectSlogan = '用 Flutter Web 展示我们的创意与协作';
 
   static const List<TeamMember> members = [
-    TeamMember(role: '组长', name: '胡玮明', task: '创建仓库、维护 main 分支、审核 PR、发布 GitHub Pages'),
+    TeamMember(role: '组长', name:   '胡玮明', task: '创建仓库、维护 main 分支、审核 PR、发布 GitHub Pages'),
     TeamMember(role: '组员 A', name: '张景涛', task: '修改首页标题和项目口号'),
     TeamMember(role: '组员 B', name: '李天宇', task: '补充成员介绍卡片'),
     TeamMember(role: '组员 C', name: '宋阳', task: '补充项目功能列表'),
